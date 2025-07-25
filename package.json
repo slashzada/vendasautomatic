@@ -1,0 +1,18 @@
+{
+  "name": "src-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "slash",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "mercadopago": "^2.0.9"
+  }
+}
